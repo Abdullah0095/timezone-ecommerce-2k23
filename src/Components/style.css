@@ -1,0 +1,17 @@
+/* banner style */
+#bannerText{
+    text-align: center;
+    padding-top: 21rem;
+    color: rgb(122, 37, 6);
+    font-family: cursive;
+    font-weight: 900;
+    font-size: xxx-large;
+}
+
+/* promotion */ 
+
+#promotion{
+    text-align: center;
+    padding-top: 5rem;
+    color: white;
+}
